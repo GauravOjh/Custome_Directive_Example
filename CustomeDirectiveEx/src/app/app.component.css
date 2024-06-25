@@ -4,4 +4,13 @@ p{
     align-items: center;
     height:500px;
     font-size: 60px;
+    cursor: pointer;
+}
+
+.clickme{
+    cursor: pointer;
+}
+
+.hText{
+    cursor: pointer;
 }
